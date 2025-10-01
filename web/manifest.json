@@ -5,7 +5,7 @@
   "display": "standalone",
   "background_color": "#0175C2",
   "theme_color": "#0175C2",
-  "description": "A new Flutter project.",
+  "description": "MyAgent is Nigeria’s first digital rental platform that connects tenants and landlords directly. Find verified listings, save on agent fees, and rent faster with ease.",
   "orientation": "portrait-primary",
   "prefer_related_applications": false,
   "icons": [
@@ -33,3 +33,4 @@
     }
   ]
 }
+
